@@ -8,5 +8,20 @@
  <div align="initial">
     
  ### 🔭 Trabalho com desenvolvimento front end, porém também tenho contato com o back end.
+ ### 🛠 Tenho experiência com: 
+  <ul>
+  <li>JavaScript</>
+  <li>TypeScript</>
+  <li>React</>
+  <li>Bootstrap</>
+  <li>HTML</>
+  <li>CSS e SCSS</>
+  <li>Node</>
+  <li>Express</>
+  <li>MongoDB</>
+  <li>MYSQL</>
+  <li>Java</>
+  <li>Python</>
+  </ul>
  ### 🌱 Atualmente estou estudando Next.js, testes unitários e end2end no front end.
  </div>
