@@ -23,5 +23,6 @@
   <li>Java</>
   <li>Python</>
   </ul>
- ### 🌱 Atualmente estou estudando Next.js, testes unitários e end2end no front end.
+  
+ ### 🤓 Atualmente estou estudando Next.js, testes unitários e end2end no front end.
  </div>
