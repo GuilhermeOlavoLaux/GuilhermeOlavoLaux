@@ -7,22 +7,22 @@
 </div>
  <div align="initial">
     
- ### 🔭 Trabalho com desenvolvimento front end e back end.
- ### 🛠 Tenho experiência com: 
-  <ul>
-  <li>JavaScript</>
-  <li>TypeScript</>
-  <li>React</>
-  <li>Bootstrap</>
-  <li>HTML</>
-  <li>CSS e SCSS</>
-  <li>Node</>
-  <li>Express</>
-  <li>MongoDB</>
-  <li>MYSQL</>
-  <li>Java</>
-  <li>Python</>
+ ### 🔭 Trabalho com desenvolvimento front end e back end.   
+ ### 🛠 Tenho experiência com:    
+   
+ <div style="display: inline_block"><br>
+   
+  <ul> 
+     <li>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+     </li>
   </ul>
+</div>
   
  ### 🤓 Atualmente estou estudando Next.js, testes unitários e end2end no front end.
  </div>
