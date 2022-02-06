@@ -1,4 +1,4 @@
-### Olá, me chamo Guilherme 👋
+# Olá, me chamo Guilherme 👋
 
 <div align="center">
   <a href="https://github.com/GuilhermeOlavoLaux">
@@ -7,6 +7,6 @@
 </div>
  <div align="initial">
     
- 🔭 Hoje trabalho com desenvolvimento front end, porém também possuo contato com o back end.
- 🌱 Atualmente estou estudando Next.js e testes unitários e end2end no front end.
+ ### 🔭 Hoje trabalho com desenvolvimento front end, porém também possuo contato com o back end.
+ ### 🌱 Atualmente estou estudando Next.js, testes unitários e end2end no front end.
  </div>
