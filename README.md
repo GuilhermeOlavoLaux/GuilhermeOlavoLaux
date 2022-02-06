@@ -7,7 +7,7 @@
 </div>
  <div align="initial">
     
- ### 🔭 Trabalho com desenvolvimento front end, porém também tenho contato com o back end.
+ ### 🔭 Trabalho com desenvolvimento front end e back end.
  ### 🛠 Tenho experiência com: 
   <ul>
   <li>JavaScript</>
